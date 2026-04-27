@@ -2,6 +2,15 @@
 
 This project focuses on analyzing historical climate data from Ethiopia, Kenya, Sudan, Tanzania, and Nigeria (2015–2026) to support Ethiopia's position for COP32.
 
+## Project Structure
+- `.github/workflows/`: Contains CI/CD pipelines (GitHub Actions) for automated testing and environment validation.
+- `notebooks/`: Country-specific Jupyter notebooks for Exploratory Data Analysis and visualization.
+- `scripts/`: Modular Python scripts for data cleaning, outlier detection, and statistical processing.
+- `src/`: Core utility functions and reusable source code.
+- `tests/`: Unit tests to ensure the integrity of the data processing pipeline.
+- `data/`: (Local only) Target directory for raw and cleaned datasets. **Note: This folder is git-ignored.**
+
+---
 ## Setup Instructions
 
 ### 1. Clone the repository
