@@ -1,10 +1,14 @@
 venv/
 .env
 .ipynb_checkpoints/
+
 data/
 *.csv
+*.xlsx
+
 __pycache__/
-*.pyc
+*.py[cod]
+*$py.class
 
-
+.vscode/
 
