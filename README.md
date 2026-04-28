@@ -1,4 +1,6 @@
-# African Climate Trend Analysis - Week 0
+# African Climate Trend Analysis (2015–2026)
+**Researcher:** Helen Kokob  
+**Project:** Week 0 - Climate Challenge (COP32 Strategic Paper)
 
 This project focuses on analyzing historical climate data from Ethiopia, Kenya, Sudan, Tanzania, and Nigeria (2015–2026) to support Ethiopia's position for COP32.
 
@@ -90,3 +92,5 @@ The app follows a modular structure to ensure speed and interactivity:
 - **WMO State of the Climate in Africa 2024:** Used to define baseline periods for anomaly detection.
 - **World Bank Climate Risk Profiles:** Guided the selection of KPI thresholds (e.g., extreme heat at >35°C).
 - **Pandas Documentation:** Researched the deprecation of the 'M' offset in favor of 'ME' for time-series resampling in Python 3.15.
+
+ 
